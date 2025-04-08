@@ -23,10 +23,10 @@ Make sure you have Python 3.8 or later. Then install the needed packages:
 pip install ultralytics opencv-python
 
 How to Run on an Image
-Just modify the path in the code "process_image(r"C:\Users\........\sample.jpg")"
+Just rename the image "sample.jpg" and save it in the same directory with the main.py file "process_image("sample.jpg")"
 
 How to Run on an Video
-Just modify the path in the code "process_video(r"C:\Users\........\sample.jpg")"
+Just rename the video "input_video.mp4" and save it in the same directory with the main.py file "process_video("input_video.mp4")"
 
 
 Made with ❤️ by Omar Ahmed
